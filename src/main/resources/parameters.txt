@@ -1,0 +1,12 @@
+numHiddenLayerNeurons 10
+numInputNeurons 53
+numOutputNeurons 1
+useBias true
+biasValue -0.2
+learningRates 0.5,0.25,0.75
+sigmas 3.5,3.5,3.5,3.5,3.5,2.0,2.0,2.0,2.0,2.0
+maxIterations 500
+dataFile selwood.txt
+centresFile centreVectors.txt
+resultsFile results.txt
+weightsFile weights.txt
